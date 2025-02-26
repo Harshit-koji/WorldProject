@@ -1,0 +1,52 @@
+ [
+    {
+      "id": 1,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 126300000,
+      "interestingFact": "Japan has more than 6,800 islands."
+    },
+    {
+      "id": 2,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 214300000,
+      "interestingFact": "Brazil is home to the Amazon Rainforest, the largest rainforest in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 26180000,
+      "interestingFact": "Australia is the only continent covered by a single country."
+    },
+    {
+      "id": 4,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1428000000,
+      "interestingFact": "India is the world's largest democracy."
+    },
+    {
+      "id": 5,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38010000,
+      "interestingFact": "Canada has the longest coastline in the world."
+    },
+    {
+      "id": 6,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83900000,
+      "interestingFact": "Germany is known for its famous Oktoberfest celebration and beer culture."
+    },
+    {
+      "id": 7,
+      "countryName": "South Korea",
+      "capital": "Seoul",
+      "population": 51780000,
+      "interestingFact": "South Korea is known as the world's leader in internet connectivity."
+    }
+  ]
+  
